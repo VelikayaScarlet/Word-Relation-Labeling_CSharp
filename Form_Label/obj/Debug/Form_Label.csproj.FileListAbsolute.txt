@@ -1,0 +1,17 @@
+D:\Debugs\CS_Label\Form_Label\Form_Label\bin\Debug\Form_Label.exe.config
+D:\Debugs\CS_Label\Form_Label\Form_Label\bin\Debug\Form_Label.exe
+D:\Debugs\CS_Label\Form_Label\Form_Label\bin\Debug\Form_Label.pdb
+D:\Debugs\CS_Label\Form_Label\Form_Label\obj\Debug\Form_Label.csproj.AssemblyReference.cache
+D:\Debugs\CS_Label\Form_Label\Form_Label\obj\Debug\Form_Label.Form1.resources
+D:\Debugs\CS_Label\Form_Label\Form_Label\obj\Debug\Form_Label.Form2.resources
+D:\Debugs\CS_Label\Form_Label\Form_Label\obj\Debug\Form_Label.Properties.Resources.resources
+D:\Debugs\CS_Label\Form_Label\Form_Label\obj\Debug\Form_Label.csproj.GenerateResource.cache
+D:\Debugs\CS_Label\Form_Label\Form_Label\obj\Debug\Form_Label.csproj.CoreCompileInputs.cache
+D:\Debugs\CS_Label\Form_Label\Form_Label\obj\Debug\Form_Label.exe
+D:\Debugs\CS_Label\Form_Label\Form_Label\obj\Debug\Form_Label.pdb
+D:\Debugs\CS_Label\Form_Label\Form_Label\obj\Debug\Form_Label.Form3.resources
+D:\Debugs\CS_Label\Form_Label\Form_Label\obj\Debug\Form_Label.Form4.resources
+D:\Debugs\CS_Label\Form_Label\Form_Label\obj\Debug\Form_Label.Form5.resources
+D:\Debugs\CS_Label\Form_Label\Form_Label\obj\Debug\Form_Label.Form6.resources
+D:\Debugs\CS_Label\Form_Label\Form_Label\obj\Debug\Form_Label.Form7.resources
+D:\Debugs\CS_Label\Form_Label\Form_Label\obj\Debug\Form_Label.Form8.resources
